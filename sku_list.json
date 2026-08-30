@@ -1,0 +1,159 @@
+{
+  "zones": [
+    "East",
+    "North",
+    "South",
+    "West"
+  ],
+  "platforms": [
+    "Blinkit",
+    "JioMart",
+    "Swiggy Instamart"
+  ],
+  "skus": [
+    {
+      "sku_id": "SKU001",
+      "name": "Coca-Cola 750ml",
+      "category": "Beverages",
+      "starting_stock": 157
+    },
+    {
+      "sku_id": "SKU002",
+      "name": "Red Bull Energy Drink 250ml",
+      "category": "Beverages",
+      "starting_stock": 229
+    },
+    {
+      "sku_id": "SKU003",
+      "name": "Nescafe Instant Coffee 50g",
+      "category": "Beverages",
+      "starting_stock": 343
+    },
+    {
+      "sku_id": "SKU004",
+      "name": "Real Fruit Juice 1L",
+      "category": "Beverages",
+      "starting_stock": 448
+    },
+    {
+      "sku_id": "SKU005",
+      "name": "Amul Full Cream Milk 500ml",
+      "category": "Dairy",
+      "starting_stock": 338
+    },
+    {
+      "sku_id": "SKU006",
+      "name": "Farm Eggs (6 pack)",
+      "category": "Dairy",
+      "starting_stock": 198
+    },
+    {
+      "sku_id": "SKU007",
+      "name": "Amul Butter 100g",
+      "category": "Dairy",
+      "starting_stock": 1107
+    },
+    {
+      "sku_id": "SKU008",
+      "name": "Paneer 200g",
+      "category": "Dairy",
+      "starting_stock": 558
+    },
+    {
+      "sku_id": "SKU009",
+      "name": "Bananas 1kg",
+      "category": "Fruits & Vegetables",
+      "starting_stock": 280
+    },
+    {
+      "sku_id": "SKU010",
+      "name": "Tomatoes 1kg",
+      "category": "Fruits & Vegetables",
+      "starting_stock": 114
+    },
+    {
+      "sku_id": "SKU011",
+      "name": "Onions 1kg",
+      "category": "Fruits & Vegetables",
+      "starting_stock": 423
+    },
+    {
+      "sku_id": "SKU012",
+      "name": "Apples 1kg",
+      "category": "Fruits & Vegetables",
+      "starting_stock": 441
+    },
+    {
+      "sku_id": "SKU013",
+      "name": "Tata Salt 1kg",
+      "category": "Grocery",
+      "starting_stock": 301
+    },
+    {
+      "sku_id": "SKU014",
+      "name": "Aashirvaad Atta 5kg",
+      "category": "Grocery",
+      "starting_stock": 98
+    },
+    {
+      "sku_id": "SKU015",
+      "name": "Fortune Sunflower Oil 1L",
+      "category": "Grocery",
+      "starting_stock": 51
+    },
+    {
+      "sku_id": "SKU016",
+      "name": "Toor Dal 1kg",
+      "category": "Grocery",
+      "starting_stock": 231
+    },
+    {
+      "sku_id": "SKU017",
+      "name": "Colgate Toothpaste 100g",
+      "category": "Personal Care",
+      "starting_stock": 161
+    },
+    {
+      "sku_id": "SKU018",
+      "name": "Dettol Handwash 200ml",
+      "category": "Personal Care",
+      "starting_stock": 174
+    },
+    {
+      "sku_id": "SKU019",
+      "name": "Dove Soap 100g",
+      "category": "Personal Care",
+      "starting_stock": 337
+    },
+    {
+      "sku_id": "SKU020",
+      "name": "Head & Shoulders Shampoo 180ml",
+      "category": "Personal Care",
+      "starting_stock": 1041
+    },
+    {
+      "sku_id": "SKU021",
+      "name": "Lays Classic Chips 52g",
+      "category": "Snacks",
+      "starting_stock": 371
+    },
+    {
+      "sku_id": "SKU022",
+      "name": "Parle-G Biscuits 200g",
+      "category": "Snacks",
+      "starting_stock": 236
+    },
+    {
+      "sku_id": "SKU023",
+      "name": "Maggi Noodles 2-Min 70g",
+      "category": "Snacks",
+      "starting_stock": 321
+    },
+    {
+      "sku_id": "SKU024",
+      "name": "Cadbury Dairy Milk 55g",
+      "category": "Snacks",
+      "starting_stock": 75
+    }
+  ]
+}

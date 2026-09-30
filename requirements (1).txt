@@ -1,0 +1,4 @@
+kafka-python-ng
+pymongo==4.8.0
+pandas
+flask
